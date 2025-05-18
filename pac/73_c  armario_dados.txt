@@ -1,3 +1,0 @@
-nome:     armario
-telefone: (99)999-999-99
-email:    wawawawawawawawa
