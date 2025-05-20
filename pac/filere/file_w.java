@@ -3,6 +3,8 @@ package filere;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import arras.arrarry;
+
 public class file_w{
 
     public void writ(String coisa,char[][] a_coisar){

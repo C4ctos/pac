@@ -1,7 +1,7 @@
 import variables.global;
+import arras.arrarry;
 import clicis.claceli;
-
-
+import clicis.servres;
 import filere.file_c;
 import filere.file_w;
 import peet.pet;
@@ -86,6 +86,7 @@ public class mi{
         claceli claceli = new claceli();
         pet pet = new pet();
         file_r file_r = new file_r();
+        servres servres = new servres();
 
         mi.set_up();
 
@@ -102,7 +103,7 @@ public class mi{
 
         //file_r.read_pirnt(pet.encontrar_pet_nome("jogino"));
 
-        //pet.excluir_pet("mawawa");
+        //pet.excluir_pet("jogino");
 
         //System.out.println(pet.listar_pet());
 
@@ -119,7 +120,9 @@ public class mi{
         //claceli.excluir_cliente("mortag");
 
         //System.out.println(claceli.listar_cliente());
-        
+
+        servres.add_d_servres_to_d_claceli("aaaaaaaaaalsdplasdkgf", "mortag");
+
 
 
         mi.set_down();
