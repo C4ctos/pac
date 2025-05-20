@@ -35,5 +35,7 @@ public class file_w{
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+
+        System.out.println(coisa + ".txt");
     }
 }

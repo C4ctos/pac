@@ -75,12 +75,12 @@ public class servres{
         }
 
         to_writ = to_writ.subSequence(0, to_writ.length()-1).toString();
-        to_writ += oque;
+        to_writ += (oque + ", ");
 
-        System.out.println(to_writ);
+        //System.out.println(to_writ);
         //System.out.println(o_oque + " : " + oque);
 
-        //writ(claceli.encontrar_cliente_nome(a_quem), o_oque);
+        writ(claceli.encontrar_cliente_nome(a_quem), to_writ);
     }
 
 }

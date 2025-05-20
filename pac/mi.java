@@ -121,7 +121,10 @@ public class mi{
 
         //System.out.println(claceli.listar_cliente());
 
-        servres.add_d_servres_to_d_claceli("aaaaaaaaaalsdplasdkgf", "mortag");
+        //servres.add_d_servres_to_d_claceli("Banho e tosa", "mortag");
+        //servres.add_d_servres_to_d_claceli("Consulta veterinária", "mortag");
+        //servres.add_d_servres_to_d_claceli("Hospedagem", "mortag");
+        //servres.add_d_servres_to_d_claceli("Adestramento", "mortag");
 
 
 
